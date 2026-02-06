@@ -1,0 +1,8 @@
+- Aula 2: Algumas regras para variaveis
+    - Sintaxe para declarar variavel é: TIPO DE DADO NOME = VALOR;
+    - formato de nomes é lowerCamelCase, ou seja: nomeCompleto;
+    - Os tipos de dados variam conforme a necessidade da variavel no programa;
+    - Cada tipo dde dado ocupa um tamanho na memoria
+    - O nome precisa ser unico, não pode começar com numeros;
+    - Regra para otimização: escolha sempre a que ocupa menos memoria;
+    - O sinal de igual é chamado de atribuição;

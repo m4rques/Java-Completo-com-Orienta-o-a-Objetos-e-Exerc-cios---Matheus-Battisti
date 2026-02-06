@@ -1,0 +1,23 @@
+- Aula 5: Comentarios em Java
+    - Comentarios são usados para explicar o codigo
+    - Não afetam a execução do codigo, o compilador ignora eles
+    - Tipos de comentarios:
+        - Comentario de linha: Usado para explicar em uma linha (// comentario)
+        - Comentario de bloco: Explicações mais longa em varias linhas (/* comentario */)
+        - Comentario de documentação: Usado para gerar documentação do codigo (/** comentario */)
+    - Ajuda a manter o codigo legivel e compreensivel
+
+
+    // cometario de unica linha
+
+    /* 
+    cometario de mais de uma linha
+    */
+
+    /**
+    *
+    *
+    *
+    *	   comentario de documentação
+    *
+    */
